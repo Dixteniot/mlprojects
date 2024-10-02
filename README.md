@@ -2,5 +2,5 @@
 
 # Shumidixioc
 
-The internet of things solutions.
+The Internet of things solutions.
 https://payhip.com/shumidixioc
